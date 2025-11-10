@@ -27,7 +27,7 @@ d. Use the Service for any unlawful purpose or in violation of these Terms or an
 
 4. Intellectual Property
 
-The Service, including its content (excluding content provided by users, if any), features, and functionality (including, but not limited to, all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof), are and will remain the exclusive property of [Insert Developer/Company Name Here] and its licensors. The Service is protected by copyright, trademark, and other laws of both the [Insert Governing Country/State] and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without our prior written consent.
+The Service, including its content (excluding content provided by users, if any), features, and functionality (including, but not limited to, all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof), are and will remain the exclusive property of [WordPower] and its licensors. The Service is protected by copyright, trademark, and other laws of both the [India] and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without our prior written consent.
 
 5. Termination
 
