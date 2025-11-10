@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS OF USE
 
-Last Updated: [Insert Date, e.g., November 10, 2025]
+Last Updated: [ November 11, 2025]
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the WordPower mobile application (the "Service") operated by [WordPower] ("us", "we", or "our").
 
